@@ -1,0 +1,1 @@
+The system's main objective is improved administration and patient health care by computerizing the hospital functioning.
